@@ -1,0 +1,65 @@
+{
+    "name": "GTmetrix",
+    "description": "GTmetrix is a free tool that analyzes your page's speed performance.  Using PageSpeed and YSlow, GTmetrix generates scores for your pages and offers actionable recommendations on how to fix them.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/806-gtmetrix.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "performance"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gtmetrix\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GTmetrix",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/806-gtmetrix.jpg",
+            "humanURL": "http:\/\/gtmetrix.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gtmetrix-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/gtmetrix.com\/api\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/gtmetrix.com\/news.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gtmetrix"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/gtmetrix"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/gtmetrix.com\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "billing@gtmetrix.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/gtmetrix"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/gtmetrix.com"
+        }
+    ]
+}
